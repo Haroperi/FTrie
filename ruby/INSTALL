@@ -1,0 +1,4 @@
+#rvm hogehoge
+ruby extconf.rb
+make
+make site-install
